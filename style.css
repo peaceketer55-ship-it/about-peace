@@ -1,0 +1,113 @@
+body {
+   body {
+  background-color: black;
+} 
+    
+}
+h1 {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+    color: white;
+    
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+#about {
+    background-color: brown;
+}
+#vision {
+    background-color: brown;
+}
+#mission {
+    background-color: brown;
+}
+#goals {
+    background-color: brown;
+}
+#contact {
+    background-color: brown;
+}
+nav a:hover {
+    color: green;
+    font-size: 18px;
+}
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid black;
+    
+}
+#contact {
+    padding: 30px;
+    margin: 20px;
+    border: 2px solid black;
+     
+    
+}
+ul {
+    color: white;
+}
+form {
+    width: 80%;
+    margin: auto;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+     background-color: red !important;
+    color: white;
+    margin-top: 15px;
+    padding: 10px 20px;
+    transition: 0.3s;
+
+}
+button:hover {
+     background-color: aquamarine !important;
+    
+    
+}
+nav { 
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: darkblue;
+    
+}
+section {
+    padding: 20px !important;
+    margin: 20px !important;
+    border: 3px solid black !important;
+    border-radius: 10px !important;
+    box-shadow: 0 4px 10px blue;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav a:hover {
+    color: yellow;
+    background-color: black;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+
+
