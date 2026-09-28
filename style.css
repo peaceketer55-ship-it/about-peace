@@ -3,8 +3,10 @@
 body {
     font-family: Arial, sans-serif;
     color: white;
-    background-image: 
-        url(images/a1dd7938-0f62-407f-bd4a-f9a81961be17.png);
+     background:
+        radial-gradient(circle at top left, #123456, transparent 40%),
+        radial-gradient(circle at bottom right, #1b0b3a, transparent 40%),
+        #050816;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
